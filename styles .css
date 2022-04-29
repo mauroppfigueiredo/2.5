@@ -1,8 +1,13 @@
-p.centro {
-    text-align: center;
-    color: red;
- }
+ p.centro {
 
- p.largo {
-    font-size: 300%;
- }
+            text-align: center;
+
+            color: red;
+
+         }
+
+   
+
+         p.largo {
+
+            font-size: 300%;
